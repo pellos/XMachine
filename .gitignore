@@ -3,6 +3,11 @@
 #################
 
 temp/
+Game/Library/metadata/*
+Game/Library/ScriptMapper
+Game/Library/assetDatabase3
+Game/Library/guidmapper
+
 
 *.pydevproject
 .project
