@@ -94,9 +94,9 @@ HandBrake();
 
 function Update(){
 
-wheelFLTrans.Rotate(0,wheelFL.rpm/60*360*Time.deltaTime,0);
+wheelFLTrans.Rotate(wheelFL.rpm/60*360*Time.deltaTime,0,0);
 
-wheelFRTrans.Rotate(0,wheelFR.rpm/60*360*Time.deltaTime,0);
+wheelFRTrans.Rotate(wheelFR.rpm/60*360*Time.deltaTime,0,0);
 
 wheelRLTrans.Rotate(wheelRL.rpm/60*360*Time.deltaTime,0,0);
 
