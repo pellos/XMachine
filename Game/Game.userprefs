@@ -1,8 +1,9 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Car\Car\CarControl.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Car\Car\CameraScripti.js">
     <Files>
-      <File FileName="Assets\Car\Car\CarControl.js" Line="114" Column="1" />
+      <File FileName="Assets\Car\Car\CameraScripti.js" Line="43" Column="4" />
+      <File FileName="Assets\Standard Assets\Scripts\Camera Scripts\SmoothFollow.js" Line="7" Column="18" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

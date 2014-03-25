@@ -46,7 +46,8 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Car\Car\CarControl.js" />
+     <Compile Include="Assets\Scripts\CameraScripti.js" />
+     <Compile Include="Assets\Scripts\CarControl.js" />
      <None Include="Assets\Standard Assets\Water (Basic)\Sources\Shaders\FX-Water Simple.shader" />
   </ItemGroup>
   <ItemGroup>
